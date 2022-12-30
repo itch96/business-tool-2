@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "electron": "^1.7.5",
-    "react-scripts": "1.0.12"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
